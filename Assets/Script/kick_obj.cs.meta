@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fbccb3ae7ec90e4a804d1a81d360375
+timeCreated: 1529424185
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kick_se: {fileID: 82584935836423514, guid: 754e9d8e91c9ab14294e113888a28cf0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

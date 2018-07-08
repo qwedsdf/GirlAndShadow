@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\object\Gimmick\use\T_toge\t_toge.cs">
+    <Files>
+      <File FileName="Assets\Script\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Player_kage.cs" Line="20" Column="17" />
+      <File FileName="Assets\Resources\CSV\stage_1.txt" Line="3" Column="16" />
+      <File FileName="Assets\Standard Assets\Utility\SimpleActivatorMenu.cs" Line="10" Column="1" />
+      <File FileName="Assets\Resources\object\Gimmick\use\y_ghost\y_ghost_rotate.cs" Line="18" Column="1" />
+      <File FileName="Assets\Resources\object\Gimmick\use\T_toge\t_toge.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

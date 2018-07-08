@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rock
+  - jump_col
+  - yuka
+  - kick_obj
+  - kick_col
+  - player_shadow
+  - jump_obj
+  - ball_obj
+  - toge_obj
+  - toge_col
+  - ball_col
+  - button
+  - kaidan
+  - gool
+  - toge_last
+  - toge_first
+  - kaidan_last
+  - camera_stop
+  - stop
+  - ghost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Player_kage.cs">
+    <Files>
+      <File FileName="Assets\Script\Player.cs" Line="59" Column="2" />
+      <File FileName="Assets\Script\Player_kage.cs" Line="37" Column="34" />
+      <File FileName="Assets\Script\move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Mastar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\chage_world.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\kick_obj.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\death_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\title.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
