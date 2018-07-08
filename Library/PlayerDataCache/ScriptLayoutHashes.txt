@@ -180,6 +180,7 @@ b1f0704fc1b542c80ecf3fa1bbf472a1 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.AlphaButtonClickMask
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 05524b8f659e7bfe5756d1335fec24ba UnityStore.dll:UnityEngine.Store.MainThreadDispatcher
+4dfd930f9c3d68ed47210ee865940196 Assembly-CSharp.dll:.y_bt_log
 5ae0c5c0ee73a1a90bf33bcfa2df597d Assembly-CSharp.dll:.t_toge
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 d2af69ce28cda6fcf0b7728ae3f251b4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DynamicShadowSettings
@@ -212,4 +213,3 @@ db0dace7a4b64e8b37d9d2bb23e2971d Assembly-CSharp.dll:.y_object_all
 7bb0e6f39e6f8935783b6466f4760e1c Assembly-CSharp.dll:.y_ghost_sc
 7bb0e6f39e6f8935783b6466f4760e1c Assembly-CSharp.dll:.move
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
-4dfd930f9c3d68ed47210ee865940196 Assembly-CSharp.dll:.y_bt_log
